@@ -64,6 +64,18 @@ h2 {
     border-style: dashed;
     }
 
+p {
+    font-size: 14px;
+}
+
+ol {
+    font-size: 14px;
+}
+
+img {
+    width: 100%;
+}
+
 @media (min-width: 960px) {
   .container {
     max-width: 1000px;
